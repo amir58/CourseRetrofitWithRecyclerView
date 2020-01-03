@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceBroadcastReceiver</string>
+    <string name="news_tittle">News Tittle</string>
+</resources>
